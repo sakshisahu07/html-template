@@ -1,0 +1,24 @@
+#one{
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+}
+#two{
+    font-size: 30px;
+
+}
+#three{
+    font-size: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    background-color: skyblue;
+}
+#footer{
+    background-color: rgb(214, 226, 230);
+}
+#main{
+    border: 20px;
+}
